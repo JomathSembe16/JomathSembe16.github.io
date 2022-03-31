@@ -1,0 +1,103 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+ul{
+    margin: 0;
+    padding: 0;
+}
+li{
+    list-style-type: none;
+}
+h2{
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 35px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+nav{
+    overflow: hidden;
+    width: 100%;
+    background-color: tan;
+    position: fixed;
+}
+header li{
+    float: right;
+}
+header li a{
+    display: block;
+    text-align: center;
+    padding: 18px 16px;
+}
+#logo{
+    float: left;
+}
+.lorum{
+    padding: 0px 20%;
+
+}
+.pere{
+    padding: 0px 30%;
+}
+.enfant{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxuSp50lk2oWAaqx5KPs89DqLvA0ZGmrgLbA&usqp=CAU);
+    background-repeat: no-repeat;
+    height: 222px;
+    
+}
+.text{
+    background-color: chocolate;
+    float: right;
+    margin: 50px 120px 0 0;
+    height: 20%;
+    box-shadow: 5px 5px 2px;
+}
+.text1{
+    background-color: chocolate;
+    float: right;
+    margin: 50px 500px 0 0;
+    height: 20%;
+    box-shadow: 5px 5px 2px 2px;
+}
+.A{
+    margin-top: 35px;
+    padding-top: 165px;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Z0WMiivQ3xJibDVtTjwrBGyoo3GlGx-EZA&usqp=CAU) no-repeat fixed 50% 50%;
+    background-size: cover;
+    height: 750px;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-weight: bold;
+    font-size:70px;
+    text-shadow: 5px 7px 5px black;
+}
+.hote{
+    margin-bottom: 45px;
+}
+.sec{
+    padding: 0;
+    margin: 0;
+}
+.parent{
+    display: flex;
+    justify-content: space-around;
+}
+.chambre img{
+    border-radius: 45px;
+    box-shadow: 5px 5px 3px 3px black;
+}
+.chambre h2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.B{
+    background-color: aliceblue;
+    height: 2px;
+    width: 400px;
+    margin: auto;
+    box-shadow: 5px 7px 5px  black;
+}
